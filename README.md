@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GuDoYoon</h1>
+<h1 align="center">안녕하세요! 구도윤입니다</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
