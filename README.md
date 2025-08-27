@@ -35,7 +35,8 @@
 </table>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=rhehfl&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![rhehfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhehfl)
+
 
 
 ## 📫 Contact
