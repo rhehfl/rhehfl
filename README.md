@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <div style="display:flex" >
-  <h1>안녕하세요, 프론트엔드 개발자 <b>구도윤</b>입니다 👋</h1>
+  <h1>안녕하세요, 프론트엔드를 개발하는 <b>구도윤</b>입니다 👋</h1>
 😊😊 <a href="https://www.notion.so/gudoyoon/GuDoYoon-1b278b12a47f80178755dcf3fa5c8922?source=copy_link">이력서</a>
 
 ## 🚀 Projects
