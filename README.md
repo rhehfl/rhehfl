@@ -1,44 +1,43 @@
-<!-- 헤더 배너 -->
-<div style="display:flex" >
-  <h1>안녕하세요, 프론트엔드를 개발하는 <b>구도윤</b>입니다 👋</h1>
-😊😊 <a href="https://www.notion.so/gudoyoon/GuDoYoon-1b278b12a47f80178755dcf3fa5c8922?source=copy_link">이력서</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Doyoon&fontSize=70" width="100%"/>
+  
+  <br />
+  <br />
 
-## 🚀 Projects
+  <h3>
+    사용자 경험을 중요하게 생각하는 <br />
+    프론트엔드 개발자 <b>구도윤</b>입니다 👋
+  </h3>
 
-<table>
-  <thead>
-    <tr>
-      <th>프로젝트</th>
-      <th>기간</th>
-      <th>소개</th>
-      <th>링크</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>P-Pick</b></td>
-      <td>2025.06 ~ 진행중</td>
-      <td>한국관광공사 OpenAPI 기반, 숏폼 여행지 탐색 서비스</td>
-      <td><a href="https://github.com/P-pick/front">Repo</a></td>
-    </tr>
-    <tr>
-      <td><b>Coko</b></td>
-      <td>2024.09 ~ 2025.03</td>
-      <td>JS 학습용 사이트 개발</td>
-      <td>
-        <a href="https://cokoedu.com/learn">Web</a> /
-        <a href="https://github.com/modern-agile-team/8term-coko-Front">Front</a> /
-        <a href="https://github.com/modern-agile-team/coko-admin">Admin</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <br />
 
----
-![rhehfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhehfl)
+  <a href="https://www.notion.so/gudoyoon/GuDoYoon-1b278b12a47f80178755dcf3fa5c8922?source=copy_link">
+    <img src="https://img.shields.io/badge/Resume-Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:rhehfl418q@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
+  <br />
+  <br />
 
+  <h3>🛠 Tech Stack</h3>
+  <div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  </div>
 
-## 📫 Contact
-- Email: **rhehfl418q@gmail.com**  
-- GitHub: **@rhehfl**  
+  <br />
+  <br />
+
+  <h3>📈 GitHub Stats</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rhehfl&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" height="150" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhehfl&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" height="150" alt="languages" />
+  </div>
+
+</div>
