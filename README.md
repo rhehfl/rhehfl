@@ -10,18 +10,7 @@
   </h3>
   <a href="https://doyoon.site/">😊 포트폴리오 확인하기</a>
   <br />
-
-
-  <a href="https://www.notion.so/gudoyoon/GuDoYoon-1b278b12a47f80178755dcf3fa5c8922?source=copy_link">
-    <img src="https://img.shields.io/badge/Resume-Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="mailto:rhehfl418q@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
   <br />
-  <br />
-
   <h3>🛠 Tech Stack</h3>
   <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
