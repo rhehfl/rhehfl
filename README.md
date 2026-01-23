@@ -8,8 +8,9 @@
     사용자 경험을 중요하게 생각하는 <br />
     프론트엔드 개발자 <b>구도윤</b>입니다 👋
   </h3>
-
+  <a href="https://doyoon.site/">😊 포트폴리오 확인하기</a>
   <br />
+
 
   <a href="https://www.notion.so/gudoyoon/GuDoYoon-1b278b12a47f80178755dcf3fa5c8922?source=copy_link">
     <img src="https://img.shields.io/badge/Resume-Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Resume"/>
